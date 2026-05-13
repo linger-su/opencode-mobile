@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenCode Mobile</string>
+    <string name="accessibility_service_description">OpenCode Mobile 需要无障碍权限来控制手机功能，包括模拟点击、滑动、输入文本等操作。</string>
+</resources>
